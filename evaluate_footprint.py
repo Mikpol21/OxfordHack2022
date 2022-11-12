@@ -152,6 +152,3 @@ ingr_ex_1 = ['a good beef fillet (preferably Aberdeen Angus) of around 1kg/2lb 4
 ingr_ex_2 = ['1/2 cup (125 mL) unsalted butter, softened','1/2 cup (125 mL) granulated sugar','1/2 cup (125 mL) packed brown sugar','1 large egg','1 tsp (5 mL) vanilla extract','1 1/2 cups (375 mL) all-purpose flour','1/2 tsp (2 mL) baking soda','1/2 tsp (2 mL) salt','1 cup (250 mL) old-fashioned rolled oats','1 cup (250 mL) semisweet chocolate chips','1 cup (250 mL) white chocolate chips','1 cup (250 mL) dried cranberries','1 cup (250 mL) chopped pecans']
 ingr_ex_3 = ['650ml milk', '40g plain flour', '40g butter', '2 tsp Dijon mustard', '150g mature  cheddar, grated', '180g frozen peas', 'handful of  parsley, chopped', '300g macaroni', '300g fish pie mix (smoked fish, white fish and salmon)', 'green salad, to serve (optional)']
 ingr_ex_4 = ['1 tsp plain flour', '1 tsp mustard powder', '950g beef top rump joint (see tip below)', '1 onion, cut into 8 wedges', '500g carrots, halved lengthways', '1 tbsp plain flour', '250ml beef stock']
-
-
-print(extract_footprint(ingr_ex_1))
