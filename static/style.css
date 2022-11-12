@@ -10,7 +10,26 @@ body {
 
 body {
   margin: 0;
-  background-color: #ffd8d8;
+  background-color: #24fc18;
+}
+
+.header {
+	margin: 0;
+	background-color: aquamarine;
+	height: 300px;
+	width: 100%;
+    overflow:auto;
+}
+
+.block {
+	  display: block;
+	  width: 30%;
+	  height: 30%;
+	  border: none;
+	  background-color: #4CAF50;
+	  color: white;
+	  padding: 14px 28px;
+	  overflow:auto;
 }
 
 .tb {
