@@ -129,14 +129,14 @@ def extract_product(line):
 def extract_footprint(ingredients):
 	
 	new_ingredients = deepcopy(ingredients)
-	for i in range(len(ingredients)):
-		ingr_ex_2[i] = preprocess(ingredients[i])
+	for i in range(len(new_ingredients)):
+		new_ingredients[i] = preprocess(new_ingredients[i])
 
 	result = []
 
-	for i in range(len(ingredients)):
-		product = extract_product(ingredients[i])
-		amount = (unify_amount(extract_amount(ingredients[i]), product))
+	for i in range(len(new_ingredients)):
+		product = extract_product(new_ingredients[i])
+		amount = (unify_amount(extract_amount(new_ingredients[i]), product))
 		
 		result.append(round(amount*food_dict[product][1]/100))
 
