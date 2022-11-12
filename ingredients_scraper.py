@@ -39,5 +39,4 @@ Units:
     fl oz
     kg
     litre (or l)
-    
 """
