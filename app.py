@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template
 import ingredients_scraper
+import evaluate_footprint
 
 app = Flask(__name__, static_folder='static', template_folder='templates')
 
@@ -10,8 +11,9 @@ def my_form():
 @app.route('/', methods=['POST'])
 def my_form_post():
     text = request.form['search']
-    processed_text = ingredients_scraper.get_ingredients(text)
-    return processed_text
+    ingredients = ingredients_scraper.get_ingredients(text)
+    footprint = evaluate_footprint.extract_footprint(ingredients)
+    return list(zip(ingredients, footprint))
 
 """
 <form method="POST">
