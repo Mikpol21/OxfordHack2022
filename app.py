@@ -11,12 +11,15 @@ def my_form():
 
 @app.route('/', methods=['POST'])
 def my_form_post():
-    text = request.form['search']
-    ingredients = ingredients_scraper.get_ingredients(text)
-    footprint = evaluate_footprint.extract_footprint(ingredients)
-    
-    dict = {}
-    for x, y in zip(ingredients, footprint):
-        dict[x] = y
-    print(dict)
-    return render_template('search_box.html', result=dict)
+    try:
+      text = request.form['search']
+      ingredients = ingredients_scraper.get_ingredients(text)
+      footprint = evaluate_footprint.extract_footprint(ingredients)
+      
+      dict = {}
+      for x, y in zip(ingredients, footprint):
+          dict[x] = y
+      print(dict)
+      return render_template('search_box.html', result=dict)
+    except:
+      return render_template('search_box.html', result="No results found")
