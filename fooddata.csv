@@ -1,0 +1,523 @@
+,Name,Suggested_Serving,per100g
+0,bagel,85.0,121
+1,baguette,220.0,130
+2,bread,80.0,121
+3,bread crumbs,112.0,121
+4,bread roll,60.0,121
+5,brown bread,80.0,110
+6,brown bread roll,60.0,121
+7,cake,120.0,306
+8,chocolate cake,120.0,367
+9,crepe,80.0,71
+10,crumpet,50.0,121
+11,doughnut,75.0,658
+12,fruit cake,120.0,306
+13,muffin,130.0,658
+14,pancake,50.0,71
+15,pastry,47.0,658
+16,pitta bread,60.0,121
+17,plain naan bread,140.0,121
+18,rye bread,80.0,107
+19,scones,70.0,306
+20,sponge cake,120.0,306
+21,tortilla wrap,65.0,108
+22,waffle,75.0,71
+23,white bread,80.0,108
+24,white bread roll,60.0,112
+25,fruit pie,120.0,81
+26,cheesecake,120.0,548
+27,biscuits,45.0,130
+28,chocolate,30.0,576
+29,chocolate biscuit,45.0,270
+30,chocolate chips,10.0,576
+31,chocolate snack bar,32.0,507
+32,crackers,24.0,116
+33,flapjacks,32.0,684
+34,fudge,34.0,241
+35,gluten-free biscuit,45.0,330
+36,liquorice,21.0,241
+37,marshmallows,35.0,241
+38,milk-based sweets,10.0,421
+39,mints,15.0,241
+40,muesli snack bar,32.0,684
+41,sweets,10.0,241
+42,toffee,21.0,241
+43,vegan chocolate,30.0,192
+44,allspice,3.0,113
+45,almond extract,5.0,66
+46,baking powder,5.0,1
+47,basil,24.0,113
+48,bay leaves,24.0,113
+49,beet molasses,20.0,29
+50,beet sugar,4.0,39
+51,black pepper,3.0,113
+52,breakfast cereal,45.0,240
+53,brown sugar,4.0,66
+54,cacao nibs,24.0,266
+55,cacao powder,5.0,444
+56,cassava starch,4.0,59
+57,cayenne pepper,3.0,113
+58,chilli flakes,3.0,113
+59,chilli powder,3.0,113
+60,chives,24.0,113
+61,cinnamon,3.0,113
+62,cloves,24.0,113
+63,coconut sugar,4.0,66
+64,coffee beans,10.0,450
+65,coriander,24.0,113
+66,cornflour,4.0,89
+67,cumin,3.0,113
+68,dill,24.0,113
+69,five spice,3.0,113
+70,flour,8.0,89
+71,food colouring,5.0,66
+72,garam masala,3.0,113
+73,granola,45.0,402
+74,herbs and spices,20.0,113
+75,hot chocolate powder,2.0,444
+76,icing - to roll,60.0,66
+77,icing sugar,8.0,66
+78,lard,12.0,612
+79,marzipan,60.0,166
+80,mint,24.0,113
+81,miso paste,16.0,22
+82,molasses,20.0,49
+83,muesli,45.0,402
+84,non-wholegrain breakfast cereal,45.0,401
+85,nutmeg,3.0,113
+86,oat flakes,45.0,79
+87,oregano,24.0,113
+88,paprika,3.0,113
+89,parsley,24.0,113
+90,peppermint extract,5.0,66
+91,plain flour,8.0,89
+92,porridge,45.0,396
+93,rosemary,24.0,113
+94,rye flour,8.0,71
+95,sage,24.0,113
+96,salt,3.0,113
+97,self-raising flour,8.0,89
+98,sugar,4.0,66
+99,tapioca starch,5.0,59
+100,thyme,24.0,113
+101,turmeric,3.0,113
+102,vanilla,5.0,66
+103,vanilla extract,5.0,66
+104,vegetable fat,12.0,275
+105,white sugar,4.0,66
+106,wholegrain breakfast cereal,45.0,235
+107,yeast,12.0,330
+108,chilli paste,1.082048893,22
+109,almond milk,200.0,56
+110,brie,30.0,742
+111,buffalo milk,200.0,338
+112,butter,14.0,976
+113,buttermilk,200.0,110
+114,camembert,30.0,711
+115,cheddar,30.0,742
+116,cheese,30.0,879
+117,clotted cream,150.0,372
+118,concentrated milk,200.0,310
+119,cottage cheese,30.0,245
+120,cream cheese,30.0,644
+121,double cream,150.0,372
+122,edam,30.0,711
+123,emmental,30.0,711
+124,feta,30.0,711
+125,goats cheese,30.0,711
+126,goats milk,200.0,267
+127,gouda,30.0,742
+128,ice cream,120.0,380
+129,margarine,14.0,308
+130,mascarpone,30.0,742
+131,milk,200.0,176
+132,mozzarella,30.0,644
+133,oat milk,200.0,70
+134,oatly oat drink,200.0,32
+135,paneer,30.0,711
+136,parmesan,30.0,711
+137,plant-based cream,150.0,187
+138,plant-based milk,200.0,55
+139,prato,30.0,742
+140,quark,30.0,245
+141,sheeps milk,200.0,840
+142,single cream,150.0,372
+143,sour cream,60.0,250
+144,soy milk,200.0,78
+145,stilton,30.0,742
+146,vegan cheese,30.0,272
+147,whipping cream,150.0,372
+148,yogurt,120.0,220
+149,plant-based yogurt,120.0,73
+150,americano,120.0,71
+151,apple juice,150.0,244
+152,beer,400.0,77
+153,beer bottle,500.0,88
+154,beer can,330.0,66
+155,black instant coffee,400.0,71
+156,black tea,400.0,61
+157,bottled water,500.0,32
+158,brandy,50.0,232
+159,cappuccino,140.0,161
+160,cider,400.0,77
+161,cider bottle,500.0,88
+162,cider can,330.0,66
+163,espresso,30.0,71
+164,flat white,160.0,161
+165,fruit cordial,50.0,193
+166,fruit juice,150.0,171
+167,fruit tea,400.0,61
+168,grapefruit juice,150.0,206
+169,green tea,400.0,61
+170,herbal tea,400.0,61
+171,hot chocolate,400.0,141
+172,hot chocolate with milk,400.0,273
+173,hot chocolate with water,400.0,9
+174,instant coffee,400.0,141
+175,instant coffee with milk,400.0,161
+176,jasmin tea,400.0,61
+177,latte,240.0,161
+178,lemon juice,150.0,62
+179,lime juice,150.0,62
+180,mocha,120.0,161
+181,orange juice,150.0,200
+182,other spirits,50.0,232
+183,pineapple juice,150.0,252
+184,rum,50.0,232
+185,sherry,150.0,137
+186,soft drink,330.0,62
+187,tequila,50.0,232
+188,vodka,50.0,232
+189,water,400.0,1
+190,whiskey,50.0,232
+191,white tea,400.0,63
+192,wine,150.0,137
+193,eggs,60.0,451
+194,anchovies,80.0,422
+195,caviar,30.0,529
+196,clams,73.0,304
+197,cockles,125.0,304
+198,cod,170.0,321
+199,crab,65.0,1775
+200,crayfish,65.0,1775
+201,eel,113.0,422
+202,fish fingers,90.0,375
+203,fish sticks,51.0,191
+204,flatfish,170.0,436
+205,flounder,170.0,436
+206,haddock,170.0,436
+207,hake,170.0,436
+208,halibut,170.0,436
+209,herring,170.0,159
+210,hoki,170.0,436
+211,kipper,170.0,422
+212,krill,20.0,1775
+213,lemon sole,170.0,436
+214,lobster,295.0,1775
+215,mackerel,170.0,90
+216,mixed fish,170.0,617
+217,molluscs,75.0,304
+218,mussels,80.0,304
+219,octopus,57.0,304
+220,oysters,70.0,304
+221,pangasius,170.0,436
+222,plaice,170.0,436
+223,pollock,170.0,321
+224,prawn,90.0,1775
+225,salmon,170.0,479
+226,sardines,80.0,422
+227,scallops,120.0,304
+228,scampi,80.0,1775
+229,sea bass,170.0,436
+230,seabass,170.0,436
+231,seaweed,5.0,304
+232,shrimp,80.0,1775
+233,skate,170.0,436
+234,smoked salmon,170.0,479
+235,squid,272.0,304
+236,trout,170.0,422
+237,tuna,170.0,1016
+238,whitebait,80.0,422
+239,whiting,170.0,436
+240,apples,80.0,90
+241,apricot,140.0,43
+242,avocados,170.0,240
+243,banana chips,30.0,440
+244,bananas,120.0,130
+245,berries,25.0,286
+246,blackberries,20.0,286
+247,blueberries,15.0,286
+248,bottled tomatoes,80.0,233
+249,canned mandarins,200.0,250
+250,canned mango,200.0,440
+251,canned nectarines,200.0,290
+252,canned peaches,200.0,290
+253,canned pears,200.0,406
+254,canned pineapples,200.0,360
+255,canned plums,200.0,549
+256,canned tomatoes,200.0,196
+257,capers,20.0,46
+258,cherries,32.0,286
+259,coconut,85.0,79
+260,cranberries,20.0,286
+261,currants,25.0,210
+262,date,48.0,210
+263,dried apples,80.0,698
+264,dried banana,120.0,440
+265,dried mango,30.0,870
+266,dried pears,180.0,696
+267,dried pineapples,80.0,490
+268,dried plums,65.0,444
+269,frozen apples,80.0,212
+270,frozen blackberries,20.0,252
+271,frozen blueberries,15.0,252
+272,frozen cherries,32.0,252
+273,frozen cranberries,20.0,252
+274,frozen mango,80.0,380
+275,frozen nectarines,150.0,250
+276,frozen peaches,150.0,250
+277,frozen raspberries,50.0,230
+278,frozen strawberries,80.0,233
+279,grapefruits,246.0,80
+280,grapes,40.0,230
+281,kiwi,76.0,62
+282,lemons,100.0,190
+283,lime,45.0,190
+284,mandarins,130.0,110
+285,mango,80.0,440
+286,melons,80.0,90
+287,nectarines,150.0,190
+288,olives,40.0,46
+289,oranges,130.0,190
+290,papaya,120.0,440
+291,passata,200.0,196
+292,peaches,150.0,190
+293,pears,180.0,103
+294,pineapples,80.0,170
+295,plums,65.0,113
+296,raisins,25.0,210
+297,raspberries,50.0,257
+298,strawberries,80.0,224
+299,tomatoes,80.0,291
+300,barley,80.0,112
+301,basmati rice,65.0,135
+302,black beans,80.0,85
+303,brown rice,65.0,135
+304,buckwheat,80.0,72
+305,bulgar,120.0,76
+306,chickpeas,80.0,85
+307,corn,120.0,41
+308,couscous,120.0,244
+309,faba beans,80.0,85
+310,frozen pulses,80.0,183
+311,haricot beans,80.0,85
+312,jasmin rice,65.0,135
+313,kidney beans,80.0,85
+314,lentils,120.0,67
+315,long-grain rice,65.0,135
+316,macaroni,75.0,137
+317,maize,120.0,51
+318,mixed grain,65.0,76
+319,noodles,75.0,137
+320,oats,120.0,79
+321,other pulses,120.0,330
+322,pasta,75.0,137
+323,polenta,120.0,76
+324,quinoa,85.0,82
+325,rice,65.0,135
+326,soybeans,80.0,200
+327,spaghetti,75.0,137
+328,sushi rice,65.0,135
+329,tagliatelle,75.0,137
+330,wheat,80.0,72
+331,white rice,65.0,135
+332,wholemeal pasta,75.0,137
+333,bacon,80.0,663
+334,beef,160.0,4333
+335,chicken,150.0,471
+336,cocktail sausage,60.0,663
+337,duck,160.0,505
+338,falafel,40.0,251
+339,gammon,160.0,1080
+340,goat,160.0,3571
+341,goose,160.0,505
+342,guinea fowl,160.0,505
+343,ham,30.0,663
+344,lamb,160.0,2083
+345,meatless,80.0,229
+346,pancetta,30.0,663
+347,pork,160.0,663
+348,quorn,100.0,240
+349,quorn classic burger,90.0,255
+350,quorn crispy nuggets,80.0,197
+351,quorn mince,75.0,169
+352,quorn pieces,75.0,171
+353,quorn sausages,84.0,170
+354,quorn vegan nuggets,70.0,255
+355,quorn vegan pieces,70.0,160
+356,rabbit,160.0,1102
+357,steak,225.0,4333
+358,tempeh,80.0,109
+359,tofu,80.0,186
+360,turkey,160.0,645
+361,valess,80.0,501
+362,veal,160.0,1894
+363,vegetable patty,75.0,295
+364,venison,160.0,2099
+365,pork sausage,84.0,663
+366,almonds,24.0,286
+367,cashews,24.0,209
+368,chestnuts,24.0,146
+369,chia seeds,11.0,420
+370,chocolate covered hazelnuts,24.0,343
+371,fennel seeds,9.0,420
+372,mixed nuts,24.0,206
+373,mixed seeds,9.0,298
+374,mustard seeds,9.0,22
+375,peanut,24.0,136
+376,pecans,20.0,213
+377,pistachio,24.0,233
+378,pumpkin seeds,9.0,420
+379,sesame seeds,8.0,420
+380,sunflower seeds,9.0,85
+381,walnut,24.0,213
+382,coconut oil,14.0,241
+383,corn oil,14.0,120
+384,cottonseed oil,14.0,214
+385,groundnut oil,14.0,90
+386,mustard oil,14.0,290
+387,olive oil,14.0,253
+388,palm oil,14.0,612
+389,peanut oil,14.0,364
+390,rapeseed oil,14.0,240
+391,sesame oil,14.0,420
+392,soybean oil,14.0,158
+393,sunflower oil,14.0,254
+394,vegetable oil,14.0,320
+395,potatoes,220.0,127
+396,sweet potato,115.0,127
+397,new potato,180.0,127
+398,baked beans,200.0,247
+399,chips,80.0,382
+400,corn crisps,80.0,133
+401,crisps,25.0,441
+402,custard,56.0,245
+403,fruit salad,80.0,270
+404,pizza,250.0,383
+405,tomato paste,20.0,475
+406,apple sauce,16.0,185
+407,barbeque sauce,16.0,22
+408,beef gravy,240.0,22
+409,beef stock,240.0,22
+410,bolognese sauce,175.0,243
+411,chicken gravy,240.0,22
+412,chicken stock,240.0,22
+413,chutney,17.0,154
+414,fish sauce,16.0,22
+415,hoisin sauce,16.0,22
+416,hummus,15.0,85
+417,lamb stock,240.0,22
+418,marmite,15.0,166
+419,mayonnaise,14.0,403
+420,mirin,16.0,22
+421,mustard,15.0,22
+422,oyster sauce,16.0,22
+423,pesto,16.0,253
+424,relish,17.0,154
+425,salad cream,15.0,403
+426,salad dressing,15.0,461
+427,soy sauce,16.0,22
+428,stir fry sauce,16.0,22
+429,sweet chilli sauce,16.0,22
+430,tabasco sauce,16.0,22
+431,tahini,15.0,85
+432,tamari,16.0,22
+433,tomato ketchup,17.0,154
+434,tomato sauce,175.0,243
+435,vegetable gravy,240.0,22
+436,vegetable stock,240.0,22
+437,vinegar,15.0,22
+438,worcestershire sauce,16.0,22
+439,salsa,175.0,243
+440,sriracha,16.0,22
+441,coleslaw,14.0,403
+442,chocolate spread,20.0,439
+443,golden syrup,20.0,66
+444,hazelnut paste,20.0,127
+445,hazelnut spread,20.0,271
+446,honey,20.0,166
+447,jam,20.0,215
+448,maple syrup,20.0,66
+449,marmalade,20.0,215
+450,peanut butter,16.0,211
+451,treacle,20.0,66
+452,artichoke,80.0,34
+453,asparagus,80.0,703
+454,aubergine,150.0,310
+455,beetroot,113.0,114
+456,broccoli,80.0,108
+457,brussels sprouts,80.0,75
+458,cabbage,80.0,62
+459,canned asparagus,200.0,418
+460,canned carrots,200.0,193
+461,canned green beans,200.0,153
+462,canned spinach,200.0,179
+463,canned sweetcorn,200.0,261
+464,carrot,80.0,113
+465,cauliflower,80.0,97
+466,cauliflower - pre-cut,80.0,202
+467,celery,50.0,84
+468,chilli pepper,15.0,202
+469,corn on the cob,80.0,158
+470,courgette,80.0,86
+471,cucumber,80.0,193
+472,dried and canned peas,200.0,232
+473,dried peas (shelled),80.0,239
+474,frozen asparagus,80.0,304
+475,frozen brussels sprouts,80.0,188
+476,frozen carrots,80.0,244
+477,frozen cauliflower,80.0,227
+478,frozen green beans,80.0,168
+479,frozen onion,80.0,231
+480,frozen peas,80.0,251
+481,frozen spinach,80.0,157
+482,frozen sweetcorn,80.0,252
+483,garlic,3.0,45
+484,ginger,7.0,45
+485,green beans,80.0,567
+486,green peppers,80.0,202
+487,jalepeno pepper,15.0,202
+488,kale,198.0,161
+489,leek,80.0,105
+490,lettuce,80.0,161
+491,mushrooms,80.0,140
+492,onion,160.0,105
+493,packaged sweetcorn,80.0,241
+494,parsnips,80.0,68
+495,peas,80.0,423
+496,peppers,80.0,202
+497,pickled beetroot,113.0,361
+498,pickled cabbage,80.0,257
+499,pickled cucumber,80.0,407
+500,pickled onion,80.0,254
+501,pickled peppers,80.0,384
+502,pre-chopped carrots,80.0,216
+503,pre-cut cabbage,80.0,137
+504,pre-cut lettuce,80.0,206
+505,red onion,120.0,105
+506,red peppers,80.0,202
+507,rhubarb,133.0,84
+508,rocket,25.0,161
+509,salad leaves,198.0,161
+510,shallot,40.0,105
+511,shelled and canned peas,200.0,248
+512,spinach,80.0,146
+513,split and canned peas,200.0,232
+514,spring onion,45.0,105
+515,squash,140.0,116
+516,swedes,80.0,68
+517,turnips,80.0,68
+518,unshelled peas,80.0,394
+519,vegetables,80.0,204
+520,watercress,25.0,161
+521,garlic clove,3.0,45
