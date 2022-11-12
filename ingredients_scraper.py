@@ -22,8 +22,22 @@ def prettify_ingredients(ingredients_list):
 
 def get_ingredients(dish):
     URL = get_bbc_good_food_URL(dish)
-    #print(URL)
+    # print(URL)
     ingredients_list = extract_ingredients_BBC_good_food(URL)
     return prettify_ingredients(ingredients_list)
 
-#print(get_ingredients("chicken curry"))
+print(get_ingredients("chicken katsu"))
+
+"""
+Units:
+    ml
+    g
+    quantity (1 , 1 ½)
+    tsp
+    tbsp
+    2 x 400g
+    fl oz
+    kg
+    litre (or l)
+    
+"""
