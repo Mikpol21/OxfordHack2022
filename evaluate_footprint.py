@@ -138,7 +138,7 @@ def extract_footprint(ingredients):
 		product = extract_product(new_ingredients[i])
 		amount = (unify_amount(extract_amount(new_ingredients[i]), product))
 		
-		result.append(round(amount*food_dict[product][1]/100))
+		result.append((round(amount*food_dict[product][1]/100), amount, food_dict[product][1]))
 
 	return result
 
