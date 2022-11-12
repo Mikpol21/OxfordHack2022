@@ -11,14 +11,82 @@ body {
 body {
   margin: 0;
   background-color: #24fc18;
+  background-image: url("background.jpg");
+}
+
+.total_score {
+	margin-left: 40%;
+	margin-top: 14%;
+	padding: 30px;
+	width: 20%;
+	height: 5%;
+	font-size: 25px;
+	color: white;
+	background-color: rgb(40, 49, 46);
+	border-radius: 20px;
+	box-shadow: 0 10px 40px #58ce99, 0 0 0 20px #ffffffeb;
+	font-weight: 700;
 }
 
 .header {
 	margin: 0;
-	background-color: aquamarine;
-	height: 300px;
+	background-color: rgb(40, 49, 46);
+	height: 20%;
 	width: 100%;
     overflow:auto;
+	color: white;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+	color: white;
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+	color:white;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: rgb(40, 49, 46);
+	color: white;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+	object-fit: fill;
+}
+
+.logo {
+	background-color: yellow;
+	height: 100%;
+	width: 20%;
 }
 
 .block {
@@ -42,6 +110,18 @@ body {
   vertical-align: middle;
 }
 
+.table {
+	margin-top: 3%;
+	background-color: rgb(40, 49, 46);
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10%;
+	width: auto;
+	height: auto;
+	color: white;
+	font-size: 25px;
+}
+
 input,
 button {
   color: #fff;
@@ -54,16 +134,16 @@ button {
 
 #cover {
   position: absolute;
-  top: 50%;
+  top: 33%;
   left: 0;
   right: 0;
-  width: 550px;
   padding: 35px;
   margin: -83px auto 0 auto;
-  background-color: #ff7575;
+  background-color: #58ce99;
   border-radius: 20px;
-  box-shadow: 0 10px 40px #ff7c7c, 0 0 0 20px #ffffffeb;
+  box-shadow: 0 10px 40px #58ce99, 0 0 0 20px #ffffffeb;
   transform: scale(0.6);
+  color: white;
 }
 
 form {
@@ -78,7 +158,7 @@ input[type="text"] {
 }
 
 input[type="text"]::placeholder {
-  color: #e16868;
+  color: white;
 }
 
 #s-cover {

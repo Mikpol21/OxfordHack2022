@@ -4,12 +4,12 @@
 	</head>
 	<title>Carbon footprint</title>
 	<body>
-	<div class="block">
-		bwusdbbc
-	</div>
 	<div class="header">
-		<h1>{{ result }}</h1>
+		<div class = "logo">
+			<img src="/static/logo.jpg" alt="logo" />
+		</div>
 	</div>
+	<!-- <img src="/static/image.jpg" alt="background" /> -->
 	<div id="cover">
     	<form method="post" action="">
       		<div class="tb">
@@ -31,6 +31,51 @@
       		</div>
     	</form>
   	</div>
+	
+	{% if result!={} %}
+	<div class = "total_score">
+		{% if total<2000 %}
+			Total Footprint:   <font color="green">{{total}} gCO<sub>2</sub>e </font>
+		{% elif total < 5000 %}
+			Total Footprint:   <font color="yellow">{{total}} gCO<sub>2</sub>e </font>
+		{% else %}
+			Total Footprint:   <font color="red">{{total}} gCO<sub>2</sub>e</font>
+		{% endif %}
+	</div>
+	{% endif %}
+	
+
+	<div class="table">
+		
+		<table class="styled-table">
+			<thead>
+				{% if result!={} %}
+				<tr>
+					<th>Ingredient</th>
+					<th style="text-align: center">Carboon Footprint (gCO<sub>2</sub>e)</th>
+				</tr>
+				{% endif %}
+			</thead>
+			<tbody>
+				{% for row in result %}
+				  <tr>
+					<td>{{ result[row][0] }}</td>
+					{% if result[row][1][2] <100 %}
+						<font color="green"><td style="text-align: center; color: green">{{ result[row][1][0] }}</td></font>
+					{% elif result[row][1][2] < 300 %}
+						<font color="gold"><td style="text-align: center; color: gold">{{ result[row][1][0] }}</td></font>
+					{% else %}
+						<font color="red"><td style="text-align: center; color: red">{{ result[row][1][0] }}</td></font>
+					{% endif %}
+					
+				   </tr>
+				 {% endfor %}
+			</tbody>
+		</table>
+	</div>
+	<div>
+		.
+	</div>
     
   	</body>
 </html>

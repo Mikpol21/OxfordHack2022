@@ -7,7 +7,8 @@ app = Flask(__name__, static_folder='static', template_folder='templates')
 
 @app.route('/')
 def my_form():
-    return render_template('search_box.html')
+    return render_template('search_box.html', result = {})
+
 
 @app.route('/', methods=['POST'])
 def my_form_post():
@@ -15,11 +16,12 @@ def my_form_post():
       text = request.form['search']
       ingredients = ingredients_scraper.get_ingredients(text)
       footprint = evaluate_footprint.extract_footprint(ingredients)
-      
+      total_footprint = sum([x[0] for x in footprint])
       dict = {}
+      idx = 0
       for x, y in zip(ingredients, footprint):
-          dict[x] = y
-      print(dict)
-      return render_template('search_box.html', result=dict)
+          dict[idx] = [x,y]
+          idx += 1
+      return render_template('search_box.html', result=dict, total=total_footprint)
     except:
-      return render_template('search_box.html', result="No results found")
+      return render_template('search_box.html', result={}, total=0)
