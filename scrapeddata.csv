@@ -1,0 +1,523 @@
+Name,Suggested_Serving,per100g
+Bagel,85.0,121
+Baguette,220.0,130
+Bread,80.0,121
+Bread crumbs,112.0,121
+Bread roll,60.0,121
+Brown bread,80.0,110
+Brown bread roll,60.0,121
+Cake,120.0,306
+Chocolate cake,120.0,367
+Crepe,80.0,71
+Crumpet,50.0,121
+Doughnut,75.0,658
+Fruit cake,120.0,306
+Muffin,130.0,658
+Pancake,50.0,71
+Pastry,47.0,658
+Pitta bread,60.0,121
+Plain naan bread,140.0,121
+Rye bread,80.0,107
+Scones,70.0,306
+Sponge cake,120.0,306
+Tortilla wrap,65.0,108
+Waffle,75.0,71
+White bread,80.0,108
+White bread roll,60.0,112
+Fruit pie,120.0,81
+Cheesecake,120.0,548
+Biscuits,45.0,130
+Chocolate,30.0,576
+Chocolate biscuit,45.0,270
+Chocolate chips,10.0,576
+Chocolate snack bar,32.0,507
+Crackers,24.0,116
+Flapjacks,32.0,684
+Fudge,34.0,241
+Gluten-free biscuit,45.0,330
+Liquorice,21.0,241
+Marshmallows,35.0,241
+Milk-based sweets,10.0,421
+Mints,15.0,241
+Muesli snack bar,32.0,684
+Sweets,10.0,241
+Toffee,21.0,241
+Vegan chocolate,30.0,192
+Allspice,3.0,113
+Almond extract,5.0,66
+Baking powder,5.0, 1
+Basil,24.0,113
+Bay leaves,24.0,113
+Beet molasses,20.0,29
+Beet sugar,4.0,39
+Black pepper,3.0,113
+Breakfast cereal,45.0,240
+Brown sugar,4.0,66
+Cacao nibs,24.0,266
+Cacao powder,5.0,444
+Cassava starch,4.0,59
+Cayenne pepper,3.0,113
+Chilli flakes,3.0,113
+Chilli powder,3.0,113
+Chives,24.0,113
+Cinnamon,3.0,113
+Cloves,24.0,113
+Coconut sugar,4.0,66
+Coffee beans,10.0,450
+Coriander,24.0,113
+Cornflour,4.0,89
+Cumin,3.0,113
+Dill,24.0,113
+Five spice,3.0,113
+Flour,8.0,89
+Food colouring,5.0,66
+Garam masala,3.0,113
+Granola,45.0,402
+Herbs and spices,20.0,113
+Hot chocolate powder,2.0,444
+Icing - to roll,60.0,66
+Icing sugar,8.0,66
+Lard,12.0,612
+Marzipan,60.0,166
+Mint,24.0,113
+Miso paste,16.0,22
+Molasses,20.0,49
+Muesli,45.0,402
+Non-wholegrain breakfast cereal,45.0,401
+Nutmeg,3.0,113
+Oat flakes,45.0,79
+Oregano,24.0,113
+Paprika,3.0,113
+Parsley,24.0,113
+Peppermint extract,5.0,66
+Plain flour,8.0,89
+Porridge,45.0,396
+Rosemary,24.0,113
+Rye flour,8.0,71
+Sage,24.0,113
+Salt,3.0,113
+Self-raising flour,8.0,89
+Sugar,4.0,66
+Tapioca starch,5.0,59
+Thyme,24.0,113
+Turmeric,3.0,113
+Vanilla,5.0,66
+Vanilla extract,5.0,66
+Vegetable fat,12.0,275
+White sugar,4.0,66
+Wholegrain breakfast cereal,45.0,235
+Yeast,12.0, 330
+Chilli paste,1.082048893,22
+Almond milk,200.0,56
+Brie,30.0,742
+Buffalo milk,200.0,338
+Butter,14.0,976
+Buttermilk,200.0,110
+Camembert,30.0,711
+Cheddar,30.0,742
+Cheese,30.0,879
+Clotted cream,150.0,372
+Concentrated milk,200.0,310
+Cottage cheese,30.0,245
+Cream cheese,30.0,644
+Double cream,150.0,372
+Edam,30.0,711
+Emmental,30.0,711
+Feta,30.0,711
+Goats cheese,30.0,711
+Goats milk,200.0,267
+Gouda,30.0,742
+Ice cream,120.0,380
+Margarine,14.0,308
+Mascarpone,30.0,742
+Milk,200.0,176
+Mozzarella,30.0,644
+Oat milk,200.0,70
+Oatly oat drink,200.0,32
+Paneer,30.0,711
+Parmesan,30.0,711
+Plant-based cream,150.0,187
+Plant-based milk,200.0,55
+Prato,30.0,742
+Quark,30.0,245
+Sheeps milk,200.0,840
+Single cream,150.0,372
+Sour cream,60.0,250
+Soy milk,200.0,78
+Stilton,30.0,742
+Vegan cheese,30.0,272
+Whipping cream,150.0,372
+Yogurt,120.0,220
+Plant-based yogurt,120.0,73
+Americano,120.0,71
+Apple juice,150.0,244
+Beer,400.0,77
+Beer bottle,500.0,88
+Beer can,330.0,66
+Black instant coffee,400.0,71
+Black tea,400.0,61
+Bottled water,500.0,32
+Brandy,50.0,232
+Cappuccino,140.0,161
+Cider,400.0,77
+Cider bottle,500.0,88
+Cider can,330.0,66
+Espresso,30.0,71
+Flat white,160.0,161
+Fruit cordial,50.0,193
+Fruit juice,150.0,171
+Fruit tea,400.0,61
+Grapefruit juice,150.0,206
+Green tea,400.0,61
+Herbal tea,400.0,61
+Hot chocolate,400.0,141
+Hot chocolate with milk,400.0,273
+Hot chocolate with water,400.0,9
+Instant coffee,400.0,141
+Instant coffee with milk,400.0,161
+Jasmin tea,400.0,61
+Latte,240.0,161
+Lemon juice,150.0,62
+Lime juice,150.0,62
+Mocha,120.0,161
+Orange juice,150.0,200
+Other spirits,50.0,232
+Pineapple juice,150.0,252
+Rum,50.0,232
+Sherry,150.0,137
+Soft drink,330.0,62
+Tequila,50.0,232
+Vodka,50.0,232
+Water,400.0,1
+Whiskey,50.0,232
+White tea,400.0,63
+Wine,150.0,137
+Eggs,60.0,451
+Anchovies,80.0,422
+Caviar,30.0,529
+Clams,73.0,304
+Cockles,125.0,304
+Cod,170.0,321
+Crab,65.0,1775
+Crayfish,65.0,1775
+Eel,113.0,422
+Fish fingers,90.0,375
+Fish sticks,51.0,191
+Flatfish,170.0,436
+Flounder,170.0,436
+Haddock,170.0,436
+Hake,170.0,436
+Halibut,170.0,436
+Herring,170.0,159
+Hoki,170.0,436
+Kipper,170.0,422
+Krill,20.0,1775
+Lemon sole,170.0,436
+Lobster,295.0,1775
+Mackerel,170.0,90
+Mixed fish,170.0,617
+Molluscs,75.0,304
+Mussels,80.0,304
+Octopus,57.0,304
+Oysters,70.0,304
+Pangasius,170.0,436
+Plaice,170.0,436
+Pollock,170.0,321
+Prawn,90.0,1775
+Salmon,170.0,479
+Sardines,80.0,422
+Scallops,120.0,304
+Scampi,80.0,1775
+Sea bass,170.0,436
+Seabass,170.0,436
+Seaweed,5.0,304
+Shrimp,80.0,1775
+Skate,170.0,436
+Smoked salmon,170.0,479
+Squid,272.0,304
+Trout,170.0,422
+Tuna,170.0,1016
+Whitebait,80.0,422
+Whiting,170.0,436
+Apples,80.0,90
+Apricot,140.0,43
+Avocados,170.0,240
+Banana chips,30.0,440
+Bananas,120.0,130
+Berries,25.0,286
+Blackberries,20.0,286
+Blueberries,15.0,286
+Bottled tomatoes,80.0,233
+Canned mandarins,200.0,250
+Canned mango,200.0,440
+Canned nectarines,200.0,290
+Canned peaches,200.0,290
+Canned pears,200.0,406
+Canned pineapples,200.0,360
+Canned plums,200.0,549
+Canned tomatoes,200.0,196
+Capers,20.0,46
+Cherries,32.0,286
+Coconut,85.0,79
+Cranberries,20.0,286
+Currants,25.0,210
+Date,48.0,210
+Dried apples,80.0,698
+Dried banana,120.0,440
+Dried mango,30.0,870
+Dried pears,180.0,696
+Dried pineapples,80.0,490
+Dried plums,65.0,444
+Frozen apples,80.0,212
+Frozen blackberries,20.0,252
+Frozen blueberries,15.0,252
+Frozen cherries,32.0,252
+Frozen cranberries,20.0,252
+Frozen mango,80.0,380
+Frozen nectarines,150.0,250
+Frozen peaches,150.0,250
+Frozen raspberries,50.0,230
+Frozen strawberries,80.0,233
+Grapefruits,246.0,80
+Grapes,40.0,230
+Kiwi,76.0,62
+Lemons,100.0,190
+Lime,45.0,190
+Mandarins,130.0,110
+Mango,80.0,440
+Melons,80.0,90
+Nectarines,150.0,190
+Olives,40.0,46
+Oranges,130.0,190
+Papaya,120.0,440
+Passata,200.0,196
+Peaches,150.0,190
+Pears,180.0,103
+Pineapples,80.0,170
+Plums,65.0,113
+Raisins,25.0,210
+Raspberries,50.0,257
+Strawberries,80.0,224
+Tomatoes,80.0,291
+Barley,80.0,112
+Basmati rice,65.0,135
+Black beans,80.0,85
+Brown rice,65.0,135
+Buckwheat,80.0,72
+Bulgar,120.0,76
+Chickpeas,80.0,85
+Corn,120.0,41
+Couscous,120.0,244
+Faba beans,80.0,85
+Frozen pulses,80.0,183
+Haricot beans,80.0,85
+Jasmin rice,65.0,135
+Kidney beans,80.0,85
+Lentils,120.0,67
+Long-grain rice,65.0,135
+Macaroni,75.0,137
+Maize,120.0,51
+Mixed grain,65.0,76
+Noodles,75.0,137
+Oats,120.0,79
+Other pulses,120.0,330
+Pasta,75.0,137
+Polenta,120.0,76
+Quinoa,85.0,82
+Rice,65.0,135
+Soybeans,80.0,200
+Spaghetti,75.0,137
+Sushi rice,65.0,135
+Tagliatelle,75.0,137
+Wheat,80.0,72
+White rice,65.0,135
+Wholemeal pasta,75.0,137
+Bacon,80.0,663
+Beef,160.0,4333
+Chicken,150.0,471
+Cocktail sausage,60.0,663
+Duck,160.0,505
+Falafel,40.0,251
+Gammon,160.0,1080
+Goat,160.0,3571
+Goose,160.0,505
+Guinea fowl,160.0,505
+Ham,30.0,663
+Lamb,160.0,2083
+Meatless,80.0,229
+Pancetta,30.0,663
+Pork,160.0,663
+Quorn,100.0,240
+Quorn classic burger,90.0,255
+Quorn crispy nuggets,80.0,197
+Quorn mince,75.0,169
+Quorn pieces,75.0,171
+Quorn sausages,84.0,170
+Quorn vegan nuggets,70.0,255
+Quorn vegan pieces,70.0,160
+Rabbit,160.0,1102
+Steak,225.0,4333
+Tempeh,80.0,109
+Tofu,80.0,186
+Turkey,160.0,645
+Valess,80.0,501
+Veal,160.0,1894
+Vegetable patty,75.0,295
+Venison,160.0,2099
+Pork sausage,84.0,663
+Almonds,24.0,286
+Cashews,24.0,209
+Chestnuts,24.0,146
+Chia seeds,11.0,420
+Chocolate covered hazelnuts,24.0,343
+Fennel seeds,9.0,420
+Mixed nuts,24.0,206
+Mixed seeds,9.0,298
+Mustard seeds,9.0,22
+Peanut,24.0,136
+Pecans,20.0,213
+Pistachio,24.0,233
+Pumpkin seeds,9.0,420
+Sesame seeds,8.0,420
+Sunflower seeds,9.0,85
+Walnut,24.0,213
+Coconut oil,14.0,241
+Corn oil,14.0,120
+Cottonseed oil,14.0,214
+Groundnut oil,14.0,90
+Mustard oil,14.0,290
+Olive oil,14.0,253
+Palm oil,14.0,612
+Peanut oil,14.0,364
+Rapeseed oil,14.0,240
+Sesame oil,14.0,420
+Soybean oil,14.0,158
+Sunflower oil,14.0,254
+Vegetable oil,14.0,320
+Potatoes,220.0,127
+Sweet potato,115.0,127
+New potato,180.0,127
+Baked beans,200.0,247
+Chips,80.0,382
+Corn crisps,80.0,133
+Crisps,25.0,441
+Custard,56.0,245
+Fruit salad,80.0,270
+Pizza,250.0,383
+Tomato paste,20.0,475
+Apple sauce,16.0,185
+Barbeque sauce,16.0,22
+Beef gravy,240.0,22
+Beef stock,240.0,22
+Bolognese sauce,175.0,243
+Chicken gravy,240.0,22
+Chicken stock,240.0,22
+Chutney,17.0,154
+Fish sauce,16.0,22
+Hoisin sauce,16.0,22
+Hummus,15.0,85
+Lamb stock,240.0,22
+Marmite,15.0,166
+Mayonnaise,14.0,403
+Mirin,16.0,22
+Mustard,15.0,22
+Oyster sauce,16.0,22
+Pesto,16.0,253
+Relish,17.0,154
+Salad cream,15.0,403
+Salad dressing,15.0,461
+Soy sauce,16.0,22
+Stir fry sauce,16.0,22
+Sweet chilli sauce,16.0,22
+Tabasco sauce,16.0,22
+Tahini,15.0,85
+Tamari,16.0,22
+Tomato ketchup,17.0,154
+Tomato sauce,175.0,243
+Vegetable gravy,240.0,22
+Vegetable stock,240.0,22
+Vinegar,15.0,22
+Worcestershire sauce,16.0,22
+Salsa,175.0,243
+Sriracha,16.0,22
+Coleslaw,14.0,403
+Chocolate spread,20.0,439
+Golden syrup,20.0,66
+Hazelnut paste,20.0,127
+Hazelnut spread,20.0,271
+Honey,20.0,166
+Jam,20.0,215
+Maple syrup,20.0,66
+Marmalade,20.0,215
+Peanut butter,16.0,211
+Treacle,20.0,66
+Artichoke,80.0,34
+Asparagus,80.0,703
+Aubergine,150.0,310
+Beetroot,113.0,114
+Broccoli,80.0,108
+Brussels sprouts,80.0,75
+Cabbage,80.0,62
+Canned asparagus,200.0,418
+Canned carrots,200.0,193
+Canned green beans,200.0,153
+Canned spinach,200.0,179
+Canned sweetcorn,200.0,261
+Carrot,80.0,113
+Cauliflower,80.0,97
+Cauliflower - pre-cut,80.0,202
+Celery,50.0,84
+Chilli pepper,15.0,202
+Corn on the cob,80.0,158
+Courgette,80.0,86
+Cucumber,80.0,193
+Dried and canned peas,200.0,232
+Dried peas (shelled),80.0,239
+Frozen asparagus,80.0,304
+Frozen brussels sprouts,80.0,188
+Frozen carrots,80.0,244
+Frozen cauliflower,80.0,227
+Frozen green beans,80.0,168
+Frozen onion,80.0,231
+Frozen peas,80.0,251
+Frozen spinach,80.0,157
+Frozen sweetcorn,80.0,252
+Garlic,3.0,45
+Ginger,7.0,45
+Green beans,80.0,567
+Green peppers,80.0,202
+Jalepeno pepper,15.0,202
+Kale,198.0,161
+Leek,80.0,105
+Lettuce,80.0,161
+Mushrooms,80.0,140
+Onion,160.0,105
+Packaged sweetcorn,80.0,241
+Parsnips,80.0,68
+Peas,80.0,423
+Peppers,80.0,202
+Pickled beetroot,113.0,361
+Pickled cabbage,80.0,257
+Pickled cucumber,80.0,407
+Pickled onion,80.0,254
+Pickled peppers,80.0,384
+Pre-chopped carrots,80.0,216
+Pre-cut cabbage,80.0,137
+Pre-cut lettuce,80.0,206
+Red onion,120.0,105
+Red peppers,80.0,202
+Rhubarb,133.0,84
+Rocket,25.0,161
+Salad leaves,198.0,161
+Shallot,40.0,105
+Shelled and canned peas,200.0,248
+Spinach,80.0,146
+Split and canned peas,200.0,232
+Spring onion,45.0,105
+Squash,140.0,116
+Swedes,80.0,68
+Turnips,80.0,68
+Unshelled peas,80.0,394
+Vegetables,80.0,204
+Watercress,25.0,161
+Garlic clove,3.0,45
